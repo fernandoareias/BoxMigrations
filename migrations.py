@@ -16,7 +16,7 @@ def help():
 
     parser = argparse.ArgumentParser(description='This is a simples migrations organizer')
 
-    parser.add_argument('--path',action='store', dest='path_project', type=str, help="set your project path", default=os.path.dirname(os.path.realpath(__file__)))
+    parser.add_argument('--path',action='store', dest='path_project', type=str, help="set your project path")
 
     args = parser.parse_args()
     
