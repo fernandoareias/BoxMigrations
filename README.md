@@ -1,6 +1,6 @@
 # BoxMigrations
 
-Um simples script para ordenação e compactação das migrations geradas pelo Entity Framework
+Um script para ordenação e compactação das migrations geradas pelo Entity Framework
 
 
 
